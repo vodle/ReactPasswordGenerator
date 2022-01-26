@@ -1,0 +1,8 @@
+.input{
+  min-height: 50px;
+  min-width: calc(100% - 40px - 4px);
+  box-shadow: 1px 1px 1px #696969, 0px 0px 1px #696969;
+  border-radius: 3px;
+  outline: none;
+  font-size: 26px;
+}
